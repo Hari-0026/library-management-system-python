@@ -1,4 +1,4 @@
-# library-management-system-python# student-grade-calculator-python
+# library-management-system-python
 ## Description
 A beginner python project that manage library and help user using loops and conditional statements
 
